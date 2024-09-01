@@ -1,9 +1,37 @@
-# Rhw1_Improving-Visualization-Techniques-for-Analyzing-Commuting-Patterns-Across-U.S.-States
-The Python code implementation for Improving Visualization Techniques for Analyzing Commuting Patterns Across U.S. States
+# PYTHON IMPLEMENTATION on COMMUTING PATTERN ANALYSIS
+## Objective
 
-The objective of the following display is to show that “Proportionally, people in DC commute by walking more than people in these other five states.” ![image](https://github.com/user-attachments/assets/57b2ebab-bc41-4507-84a1-f12adb9f9435)
-However, this visual display breaks several fundamental guidelines, including the principles “show the data and facilitate comparison” and “focus on the objective.” Your task is to:
+The objective of this analysis is to visualize commuting patterns across several U.S. states, specifically to demonstrate that “Proportionally, people in Washington, D.C., commute by walking more than people in the other five selected states: California, Colorado, Florida, New York, and Texas.”
+
+## Original Visualization
+
+The original visualization used multiple pie charts to depict the proportion of different commuting modes in each state. However, the pie charts violated several fundamental visualization principles:
+![image](https://github.com/user-attachments/assets/57b2ebab-bc41-4507-84a1-f12adb9f9435)
+- **Show the Data and Facilitate Comparison**: Pie charts make it difficult to compare proportions across multiple categories and states because they rely on the comparison of angles and areas, which is less intuitive.
+- **Focus on the Objective**: The original pie charts do not emphasize the objective clearly, as they scatter attention across many different modes of commuting without highlighting the primary mode of interest (walking).
+
+## Alternative Visualizations
+
+### 1. Grouped Bar Chart
+
+We created a grouped bar chart to address the limitations of the pie charts. This visualization clearly shows the proportion of each commuting mode across the selected states.
+
+#### How It Improves:
+- **Facilitates Comparison**: The grouped bar chart allows for a direct comparison of different commuting modes across all states on a common baseline, making it easier to assess the relative proportion of walking compared to other modes.
+- **Comprehensive Data Display**: All commuting modes are displayed in a single, unified chart, allowing for a complete view of the data without omitting smaller proportions, unlike pie charts.
+
+### 2. Stacked Bar Chart
+
+We also created a stacked bar chart to provide a holistic view of the commuting patterns by showing all commuting modes in each state.
+
+#### How It Improves:
+- **Enhanced Focus on the Objective**: The stacked bar chart visually emphasizes the higher proportion of walking in Washington, D.C., compared to other states, aligning closely with the objective.
+- **Simplified Comparison**: It provides a clearer way to see the overall distribution and specific differences in commuting modes, such as walking, between Washington, D.C., and the other states.
+
+## Conclusion
+
+Both alternative visualizations—the grouped bar chart and the stacked bar chart—offer significant improvements over the original pie charts by enhancing data clarity, facilitating comparison, and focusing on the study's objective. They provide a more accurate and accessible representation of commuting patterns across the selected states.
 
 
-a)	 an alternative display of the data that would be an improvement for visualizing its objective. 
-b)	 describe how your visualization is an improvement from the original.
+**Author**: Ziraddin Gwlwmjanli  
+**Year**: 2024  
