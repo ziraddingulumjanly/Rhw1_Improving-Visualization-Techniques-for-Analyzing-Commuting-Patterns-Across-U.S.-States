@@ -1,0 +1,595 @@
+State,Abbreviation,Mode,ProportionCommute
+Alabama,al,"Car, truck, or van",0.947053184
+Alabama,al,Bus,0.004154511
+Alabama,al,Streetcar,4.12E-05
+Alabama,al,Subway,5.15E-05
+Alabama,al,Railroad,1.03E-05
+Alabama,al,Ferryboat,2.06E-05
+Alabama,al,Taxicab,0.000412358
+Alabama,al,Motorcycle,0.002041174
+Alabama,al,Bicycle,0.001402018
+Alabama,al,Walk,0.012247044
+Alabama,al,Work from home,0.026019814
+Alabama,al,Other,0.006546189
+Alaska,ak,"Car, truck, or van",0.712216884
+Alaska,ak,Bus,0.011050103
+Alaska,ak,Streetcar,6.86E-05
+Alaska,ak,Subway,0.000137268
+Alaska,ak,Ferryboat,0.001029513
+Alaska,ak,Taxicab,0.003980782
+Alaska,ak,Motorcycle,0.00212766
+Alaska,ak,Bicycle,0.010226493
+Alaska,ak,Walk,0.135072066
+Alaska,ak,Work from home,0.055730954
+Alaska,ak,Other,0.068359643
+Arizona,az,"Car, truck, or van",0.87885571
+Arizona,az,Bus,0.016838202
+Arizona,az,Streetcar,0.000399994
+Arizona,az,Subway,0.000276919
+Arizona,az,Railroad,0.000192305
+Arizona,az,Ferryboat,2.31E-05
+Arizona,az,Taxicab,0.000699989
+Arizona,az,Motorcycle,0.005361456
+Arizona,az,Bicycle,0.009007554
+Arizona,az,Walk,0.021122752
+Arizona,az,Work from home,0.056937586
+Arizona,az,Other,0.010284457
+Arkansas,ar,"Car, truck, or van",0.930797138
+Arkansas,ar,Bus,0.003560167
+Arkansas,ar,Streetcar,3.39E-05
+Arkansas,ar,Subway,1.70E-05
+Arkansas,ar,Railroad,3.39E-05
+Arkansas,ar,Ferryboat,3.39E-05
+Arkansas,ar,Taxicab,0.000423829
+Arkansas,ar,Motorcycle,0.002763368
+Arkansas,ar,Bicycle,0.001135863
+Arkansas,ar,Walk,0.017970366
+Arkansas,ar,Work from home,0.034364086
+Arkansas,ar,Other,0.008866511
+California,ca,"Car, truck, or van",0.848634307
+California,ca,Bus,0.034223526
+California,ca,Streetcar,0.00127851
+California,ca,Subway,0.008600058
+California,ca,Railroad,0.003648431
+California,ca,Ferryboat,0.000391089
+California,ca,Taxicab,0.000391089
+California,ca,Motorcycle,0.003862815
+California,ca,Bicycle,0.010130631
+California,ca,Walk,0.027018915
+California,ca,Work from home,0.05361166
+California,ca,Other,0.008208969
+Colorado,co,"Car, truck, or van",0.843792892
+Colorado,co,Bus,0.024565494
+Colorado,co,Streetcar,0.000537448
+Colorado,co,Subway,0.00252187
+Colorado,co,Railroad,0.001248532
+Colorado,co,Ferryboat,9.10E-05
+Colorado,co,Taxicab,0.00026459
+Colorado,co,Motorcycle,0.003588497
+Colorado,co,Bicycle,0.012898745
+Colorado,co,Walk,0.032238594
+Colorado,co,Work from home,0.070810802
+Colorado,co,Other,0.007441584
+Connecticut,ct,"Car, truck, or van",0.873006366
+Connecticut,ct,Bus,0.021104926
+Connecticut,ct,Streetcar,0.000211402
+Connecticut,ct,Subway,0.001832147
+Connecticut,ct,Railroad,0.019660348
+Connecticut,ct,Ferryboat,0.000164423
+Connecticut,ct,Taxicab,0.000775139
+Connecticut,ct,Motorcycle,0.001115731
+Connecticut,ct,Bicycle,0.002877411
+Connecticut,ct,Walk,0.028092923
+Connecticut,ct,Work from home,0.04513424
+Connecticut,ct,Other,0.006024945
+Delaware,de,"Car, truck, or van",0.900430019
+Delaware,de,Bus,0.022064093
+Delaware,de,Streetcar,0.000153578
+Delaware,de,Subway,0.00092147
+Delaware,de,Railroad,0.004556158
+Delaware,de,Taxicab,0.000307157
+Delaware,de,Motorcycle,0.001484591
+Delaware,de,Bicycle,0.003276339
+Delaware,de,Walk,0.021040238
+Delaware,de,Work from home,0.038752944
+Delaware,de,Other,0.007013413
+Florida,fl,"Car, truck, or van",0.898364427
+Florida,fl,Bus,0.015185298
+Florida,fl,Streetcar,0.000123869
+Florida,fl,Subway,0.000899944
+Florida,fl,Railroad,0.000669902
+Florida,fl,Ferryboat,4.55E-05
+Florida,fl,Taxicab,0.000728045
+Florida,fl,Motorcycle,0.004014359
+Florida,fl,Bicycle,0.005887558
+Florida,fl,Walk,0.014935032
+Florida,fl,Work from home,0.049175894
+Florida,fl,Other,0.00997017
+Georgia,ga,"Car, truck, or van",0.899578944
+Georgia,ga,Bus,0.014636466
+Georgia,ga,Streetcar,0.000191166
+Georgia,ga,Subway,0.004029195
+Georgia,ga,Railroad,0.000715648
+Georgia,ga,Ferryboat,2.94E-05
+Georgia,ga,Taxicab,0.001151899
+Georgia,ga,Motorcycle,0.002112631
+Georgia,ga,Bicycle,0.002200862
+Georgia,ga,Walk,0.016685375
+Georgia,ga,Work from home,0.04906108
+Georgia,ga,Other,0.009607325
+Hawaii,hi,"Car, truck, or van",0.816883558
+Hawaii,hi,Bus,0.057927112
+Hawaii,hi,Streetcar,0.000123644
+Hawaii,hi,Subway,0.000185466
+Hawaii,hi,Railroad,3.09E-05
+Hawaii,hi,Ferryboat,0.000741863
+Hawaii,hi,Taxicab,0.00064913
+Hawaii,hi,Motorcycle,0.007480449
+Hawaii,hi,Bicycle,0.009087818
+Hawaii,hi,Walk,0.044975426
+Hawaii,hi,Work from home,0.049766622
+Hawaii,hi,Other,0.012148002
+Idaho,id,"Car, truck, or van",0.876844324
+Idaho,id,Bus,0.008160193
+Idaho,id,Streetcar,6.02E-05
+Idaho,id,Subway,9.03E-05
+Idaho,id,Railroad,6.02E-05
+Idaho,id,Taxicab,0.00063234
+Idaho,id,Motorcycle,0.004847937
+Idaho,id,Bicycle,0.010177657
+Idaho,id,Walk,0.033995784
+Idaho,id,Work from home,0.057091238
+Idaho,id,Other,0.008039747
+Illinois,il,"Car, truck, or van",0.839661337
+Illinois,il,Bus,0.029522224
+Illinois,il,Streetcar,0.000463827
+Illinois,il,Subway,0.022658281
+Illinois,il,Railroad,0.020889509
+Illinois,il,Ferryboat,6.58E-05
+Illinois,il,Taxicab,0.001356866
+Illinois,il,Motorcycle,0.001578395
+Illinois,il,Bicycle,0.005645533
+Illinois,il,Walk,0.029484149
+Illinois,il,Work from home,0.042249767
+Illinois,il,Other,0.006424346
+Indiana,in,"Car, truck, or van",0.921625277
+Indiana,in,Bus,0.007144223
+Indiana,in,Streetcar,5.46E-05
+Indiana,in,Subway,0.000232221
+Indiana,in,Railroad,0.001379668
+Indiana,in,Ferryboat,2.05E-05
+Indiana,in,Taxicab,0.000355162
+Indiana,in,Motorcycle,0.002083163
+Indiana,in,Bicycle,0.004316586
+Indiana,in,Walk,0.023351911
+Indiana,in,Work from home,0.03313253
+Indiana,in,Other,0.006304128
+Iowa,ia,"Car, truck, or van",0.890732566
+Iowa,ia,Bus,0.007922119
+Iowa,ia,Streetcar,2.63E-05
+Iowa,ia,Subway,2.63E-05
+Iowa,ia,Railroad,2.63E-05
+Iowa,ia,Ferryboat,2.63E-05
+Iowa,ia,Taxicab,0.000472962
+Iowa,ia,Motorcycle,0.00212833
+Iowa,ia,Bicycle,0.00432235
+Iowa,ia,Walk,0.039019391
+Iowa,ia,Work from home,0.049122392
+Iowa,ia,Other,0.006174786
+Kansas,ks,"Car, truck, or van",0.906157533
+Kansas,ks,Bus,0.003757841
+Kansas,ks,Streetcar,2.96E-05
+Kansas,ks,Subway,2.96E-05
+Kansas,ks,Railroad,2.96E-05
+Kansas,ks,Ferryboat,4.44E-05
+Kansas,ks,Taxicab,0.000369866
+Kansas,ks,Motorcycle,0.002973725
+Kansas,ks,Bicycle,0.003225234
+Kansas,ks,Walk,0.029056693
+Kansas,ks,Work from home,0.048260149
+Kansas,ks,Other,0.006065807
+Kentucky,ky,"Car, truck, or van",0.924977267
+Kentucky,ky,Bus,0.010298097
+Kentucky,ky,Streetcar,0.000131465
+Kentucky,ky,Subway,4.38E-05
+Kentucky,ky,Ferryboat,5.48E-05
+Kentucky,ky,Taxicab,0.000405351
+Kentucky,ky,Motorcycle,0.001336562
+Kentucky,ky,Bicycle,0.002180129
+Kentucky,ky,Walk,0.022086132
+Kentucky,ky,Work from home,0.032033655
+Kentucky,ky,Other,0.006452744
+Louisiana,la,"Car, truck, or van",0.924028326
+Louisiana,la,Bus,0.01115736
+Louisiana,la,Streetcar,0.000670307
+Louisiana,la,Subway,7.57E-05
+Louisiana,la,Railroad,2.16E-05
+Louisiana,la,Ferryboat,0.000270285
+Louisiana,la,Taxicab,0.001091951
+Louisiana,la,Motorcycle,0.002227147
+Louisiana,la,Bicycle,0.004248878
+Louisiana,la,Walk,0.019492946
+Louisiana,la,Work from home,0.025222985
+Louisiana,la,Other,0.011492513
+Maine,me,"Car, truck, or van",0.879847575
+Maine,me,Bus,0.00431645
+Maine,me,Streetcar,6.74E-05
+Maine,me,Subway,0.000101167
+Maine,me,Railroad,6.74E-05
+Maine,me,Ferryboat,0.000809334
+Maine,me,Taxicab,0.000977946
+Maine,me,Motorcycle,0.00178728
+Maine,me,Bicycle,0.004215283
+Maine,me,Walk,0.040298105
+Maine,me,Work from home,0.060227963
+Maine,me,Other,0.007284009
+Maryland,md,"Car, truck, or van",0.84121997
+Maryland,md,Bus,0.034893677
+Maryland,md,Streetcar,0.000566111
+Maryland,md,Subway,0.036924601
+Maryland,md,Railroad,0.007090542
+Maryland,md,Ferryboat,4.95E-05
+Maryland,md,Taxicab,0.001542653
+Maryland,md,Motorcycle,0.001259597
+Maryland,md,Bicycle,0.003403743
+Maryland,md,Walk,0.023564377
+Maryland,md,Work from home,0.043852387
+Maryland,md,Other,0.005632806
+Massachusetts,ma,"Car, truck, or van",0.809661596
+Massachusetts,ma,Bus,0.027165477
+Massachusetts,ma,Streetcar,0.002167029
+Massachusetts,ma,Subway,0.03676498
+Massachusetts,ma,Railroad,0.015827383
+Massachusetts,ma,Ferryboat,0.000757529
+Massachusetts,ma,Taxicab,0.001366035
+Massachusetts,ma,Motorcycle,0.001018317
+Massachusetts,ma,Bicycle,0.007351754
+Massachusetts,ma,Walk,0.046302391
+Massachusetts,ma,Work from home,0.046196833
+Massachusetts,ma,Other,0.005420677
+Michigan,mi,"Car, truck, or van",0.915351555
+Michigan,mi,Bus,0.010297249
+Michigan,mi,Streetcar,5.83E-05
+Michigan,mi,Subway,0.000140992
+Michigan,mi,Railroad,7.78E-05
+Michigan,mi,Ferryboat,5.35E-05
+Michigan,mi,Taxicab,0.000447284
+Michigan,mi,Motorcycle,0.001662729
+Michigan,mi,Bicycle,0.004239472
+Michigan,mi,Walk,0.023098315
+Michigan,mi,Work from home,0.03947765
+Michigan,mi,Other,0.005095145
+Minnesota,mn,"Car, truck, or van",0.867372951
+Minnesota,mn,Bus,0.021390976
+Minnesota,mn,Streetcar,9.00E-05
+Minnesota,mn,Subway,0.000494849
+Minnesota,mn,Railroad,0.000562328
+Minnesota,mn,Ferryboat,3.75E-05
+Minnesota,mn,Taxicab,0.000292411
+Minnesota,mn,Motorcycle,0.002309296
+Minnesota,mn,Bicycle,0.005090947
+Minnesota,mn,Walk,0.030253273
+Minnesota,mn,Work from home,0.066204808
+Minnesota,mn,Other,0.0059007
+Mississippi,ms,"Car, truck, or van",0.938728243
+Mississippi,ms,Bus,0.004281303
+Mississippi,ms,Streetcar,7.02E-05
+Mississippi,ms,Subway,7.02E-05
+Mississippi,ms,Railroad,0.000105278
+Mississippi,ms,Ferryboat,5.26E-05
+Mississippi,ms,Taxicab,0.000456204
+Mississippi,ms,Motorcycle,0.00152653
+Mississippi,ms,Bicycle,0.001403706
+Mississippi,ms,Walk,0.018914935
+Mississippi,ms,Work from home,0.025617631
+Mississippi,ms,Other,0.008773161
+Missouri,mo,"Car, truck, or van",0.909564268
+Missouri,mo,Bus,0.01025902
+Missouri,mo,Streetcar,0.000154881
+Missouri,mo,Subway,0.00104729
+Missouri,mo,Railroad,0.000177007
+Missouri,mo,Ferryboat,3.69E-05
+Missouri,mo,Taxicab,0.000538396
+Missouri,mo,Motorcycle,0.001969201
+Missouri,mo,Bicycle,0.002050329
+Missouri,mo,Walk,0.021771838
+Missouri,mo,Work from home,0.044937605
+Missouri,mo,Other,0.007493288
+Montana,mt,"Car, truck, or van",0.830636364
+Montana,mt,Bus,0.007181818
+Montana,mt,Streetcar,4.55E-05
+Montana,mt,Subway,0.000136364
+Montana,mt,Railroad,4.55E-05
+Montana,mt,Taxicab,0.000181818
+Montana,mt,Motorcycle,0.002772727
+Montana,mt,Bicycle,0.010636364
+Montana,mt,Walk,0.054227273
+Montana,mt,Work from home,0.086272727
+Montana,mt,Other,0.007863636
+Nebraska,ne,"Car, truck, or van",0.890441465
+Nebraska,ne,Bus,0.004672285
+Nebraska,ne,Streetcar,4.37E-05
+Nebraska,ne,Subway,4.37E-05
+Nebraska,ne,Ferryboat,2.18E-05
+Nebraska,ne,Taxicab,0.00034933
+Nebraska,ne,Motorcycle,0.001790315
+Nebraska,ne,Bicycle,0.003405965
+Nebraska,ne,Walk,0.037683944
+Nebraska,ne,Work from home,0.056089254
+Nebraska,ne,Other,0.005458277
+Nevada,nv,"Car, truck, or van",0.895580745
+Nevada,nv,Bus,0.029598889
+Nevada,nv,Streetcar,3.43E-05
+Nevada,nv,Subway,8.57E-05
+Nevada,nv,Railroad,0.000171488
+Nevada,nv,Ferryboat,3.43E-05
+Nevada,nv,Taxicab,0.000428721
+Nevada,nv,Motorcycle,0.004818823
+Nevada,nv,Bicycle,0.004355804
+Nevada,nv,Walk,0.021316002
+Nevada,nv,Work from home,0.034160479
+Nevada,nv,Other,0.00941471
+New Hampshire,nh,"Car, truck, or van",0.892164446
+New Hampshire,nh,Bus,0.005295098
+New Hampshire,nh,Streetcar,0.000118991
+New Hampshire,nh,Subway,0.000327225
+New Hampshire,nh,Railroad,0.000951928
+New Hampshire,nh,Ferryboat,2.97E-05
+New Hampshire,nh,Taxicab,0.000178486
+New Hampshire,nh,Motorcycle,0.002141837
+New Hampshire,nh,Bicycle,0.001903855
+New Hampshire,nh,Walk,0.029985721
+New Hampshire,nh,Work from home,0.060060685
+New Hampshire,nh,Other,0.00684198
+New Jersey,nj,"Car, truck, or van",0.819506139
+New Jersey,nj,Bus,0.051438945
+New Jersey,nj,Streetcar,0.00084091
+New Jersey,nj,Subway,0.017045736
+New Jersey,nj,Railroad,0.026132508
+New Jersey,nj,Ferryboat,0.001983558
+New Jersey,nj,Taxicab,0.001577942
+New Jersey,nj,Motorcycle,0.000647995
+New Jersey,nj,Bicycle,0.003037168
+New Jersey,nj,Walk,0.028190263
+New Jersey,nj,Work from home,0.03962169
+New Jersey,nj,Other,0.009977147
+New Mexico,nm,"Car, truck, or van",0.889995462
+New Mexico,nm,Bus,0.008874994
+New Mexico,nm,Streetcar,7.56E-05
+New Mexico,nm,Subway,0.000151278
+New Mexico,nm,Railroad,0.001664061
+New Mexico,nm,Taxicab,0.000126065
+New Mexico,nm,Motorcycle,0.004034088
+New Mexico,nm,Bicycle,0.007362211
+New Mexico,nm,Walk,0.026776259
+New Mexico,nm,Work from home,0.053552519
+New Mexico,nm,Other,0.007387424
+New York,ny,"Car, truck, or van",0.66789865
+New York,ny,Bus,0.052354586
+New York,ny,Streetcar,0.001117216
+New York,ny,Subway,0.137937576
+New York,ny,Railroad,0.026817877
+New York,ny,Ferryboat,0.000911105
+New York,ny,Taxicab,0.004794428
+New York,ny,Motorcycle,0.001070373
+New York,ny,Bicycle,0.004539131
+New York,ny,Walk,0.056467441
+New York,ny,Work from home,0.040208079
+New York,ny,Other,0.005883538
+North Carolina,nc,"Car, truck, or van",0.912123796
+North Carolina,nc,Bus,0.009525009
+North Carolina,nc,Streetcar,0.000155036
+North Carolina,nc,Subway,0.000460262
+North Carolina,nc,Railroad,0.000150191
+North Carolina,nc,Ferryboat,9.21E-05
+North Carolina,nc,Taxicab,0.000780024
+North Carolina,nc,Motorcycle,0.002136587
+North Carolina,nc,Bicycle,0.002485417
+North Carolina,nc,Walk,0.019408539
+North Carolina,nc,Work from home,0.045677409
+North Carolina,nc,Other,0.007005678
+North Dakota,nd,"Car, truck, or van",0.860514165
+North Dakota,nd,Bus,0.003363165
+North Dakota,nd,Subway,5.70E-05
+North Dakota,nd,Taxicab,0.000228011
+North Dakota,nd,Motorcycle,0.001596078
+North Dakota,nd,Bicycle,0.004731232
+North Dakota,nd,Walk,0.048224363
+North Dakota,nd,Work from home,0.075357693
+North Dakota,nd,Other,0.00592829
+Ohio,oh,"Car, truck, or van",0.915530182
+Ohio,oh,Bus,0.014468779
+Ohio,oh,Streetcar,0.0001962
+Ohio,oh,Subway,0.0004578
+Ohio,oh,Railroad,0.000176965
+Ohio,oh,Ferryboat,4.23E-05
+Ohio,oh,Taxicab,0.000665541
+Ohio,oh,Motorcycle,0.001523434
+Ohio,oh,Bicycle,0.002869904
+Ohio,oh,Walk,0.023694021
+Ohio,oh,Work from home,0.035185178
+Ohio,oh,Other,0.005189679
+Oklahoma,ok,"Car, truck, or van",0.924044876
+Oklahoma,ok,Bus,0.003954417
+Oklahoma,ok,Streetcar,2.53E-05
+Oklahoma,ok,Subway,7.58E-05
+Oklahoma,ok,Railroad,5.05E-05
+Oklahoma,ok,Ferryboat,7.58E-05
+Oklahoma,ok,Taxicab,0.000416919
+Oklahoma,ok,Motorcycle,0.002918435
+Oklahoma,ok,Bicycle,0.002034061
+Oklahoma,ok,Walk,0.019835254
+Oklahoma,ok,Work from home,0.038824035
+Oklahoma,ok,Other,0.007744593
+Oregon,or,"Car, truck, or van",0.823273374
+Oregon,or,Bus,0.029422374
+Oregon,or,Streetcar,0.003054059
+Oregon,or,Subway,0.002825606
+Oregon,or,Railroad,0.00168334
+Oregon,or,Ferryboat,4.81E-05
+Oregon,or,Taxicab,0.000360716
+Oregon,or,Motorcycle,0.003691324
+Oregon,or,Bicycle,0.02226818
+Oregon,or,Walk,0.03970277
+Oregon,or,Work from home,0.066984898
+Oregon,or,Other,0.006685264
+Pennsylvania,pa,"Car, truck, or van",0.874191152
+Pennsylvania,pa,Bus,0.024323881
+Pennsylvania,pa,Streetcar,0.000987187
+Pennsylvania,pa,Subway,0.004273161
+Pennsylvania,pa,Railroad,0.00716147
+Pennsylvania,pa,Ferryboat,3.84E-05
+Pennsylvania,pa,Taxicab,0.000729054
+Pennsylvania,pa,Motorcycle,0.001817402
+Pennsylvania,pa,Bicycle,0.003397599
+Pennsylvania,pa,Walk,0.037111971
+Pennsylvania,pa,Work from home,0.040035162
+Pennsylvania,pa,Other,0.00593359
+Rhode Island,ri,"Car, truck, or van",0.889072514
+Rhode Island,ri,Bus,0.019710589
+Rhode Island,ri,Streetcar,0.000120924
+Rhode Island,ri,Subway,0.000967391
+Rhode Island,ri,Railroad,0.005683421
+Rhode Island,ri,Ferryboat,4.03E-05
+Rhode Island,ri,Taxicab,0.000524003
+Rhode Island,ri,Motorcycle,0.001048007
+Rhode Island,ri,Bicycle,0.003909871
+Rhode Island,ri,Walk,0.035350075
+Rhode Island,ri,Work from home,0.037043009
+Rhode Island,ri,Other,0.006529888
+South Carolina,sc,"Car, truck, or van",0.918665851
+South Carolina,sc,Bus,0.005273358
+South Carolina,sc,Streetcar,0.000122399
+South Carolina,sc,Subway,0.000214198
+South Carolina,sc,Railroad,9.18E-05
+South Carolina,sc,Ferryboat,3.06E-05
+South Carolina,sc,Taxicab,0.001081191
+South Carolina,sc,Motorcycle,0.00249898
+South Carolina,sc,Bicycle,0.002968176
+South Carolina,sc,Walk,0.022021624
+South Carolina,sc,Work from home,0.038586291
+South Carolina,sc,Other,0.008445532
+South Dakota,sd,"Car, truck, or van",0.85316556
+South Dakota,sd,Bus,0.003566828
+South Dakota,sd,Railroad,4.95E-05
+South Dakota,sd,Taxicab,0.000445854
+South Dakota,sd,Motorcycle,0.002675121
+South Dakota,sd,Bicycle,0.004260378
+South Dakota,sd,Walk,0.054939067
+South Dakota,sd,Work from home,0.075250173
+South Dakota,sd,Other,0.005647478
+Tennessee,tn,"Car, truck, or van",0.932472213
+Tennessee,tn,Bus,0.006888472
+Tennessee,tn,Streetcar,9.64E-05
+Tennessee,tn,Subway,0.000103809
+Tennessee,tn,Railroad,0.000266938
+Tennessee,tn,Ferryboat,5.93E-05
+Tennessee,tn,Taxicab,0.000467141
+Tennessee,tn,Motorcycle,0.001927882
+Tennessee,tn,Bicycle,0.001438497
+Tennessee,tn,Walk,0.013984562
+Tennessee,tn,Work from home,0.035154194
+Tennessee,tn,Other,0.00714058
+Texas,tx,"Car, truck, or van",0.909609048
+Texas,tx,Bus,0.013005947
+Texas,tx,Streetcar,0.000190487
+Texas,tx,Subway,0.000628042
+Texas,tx,Railroad,0.000805328
+Texas,tx,Ferryboat,1.51E-05
+Texas,tx,Taxicab,0.000428125
+Texas,tx,Motorcycle,0.002802616
+Texas,tx,Bicycle,0.002498967
+Texas,tx,Walk,0.017109911
+Texas,tx,Work from home,0.042401347
+Texas,tx,Other,0.010505093
+Utah,ut,"Car, truck, or van",0.881312923
+Utah,ut,Bus,0.017070639
+Utah,ut,Streetcar,0.001071034
+Utah,ut,Subway,0.001219331
+Utah,ut,Railroad,0.002438663
+Utah,ut,Taxicab,0.000164775
+Utah,ut,Motorcycle,0.004564254
+Utah,ut,Bicycle,0.007579627
+Utah,ut,Walk,0.026990064
+Utah,ut,Work from home,0.051047142
+Utah,ut,Other,0.006541548
+Vermont,vt,"Car, truck, or van",0.845314948
+Vermont,vt,Bus,0.00858665
+Vermont,vt,Subway,0.000250705
+Vermont,vt,Railroad,0.000313381
+Vermont,vt,Ferryboat,0.000125353
+Vermont,vt,Taxicab,0.00050141
+Vermont,vt,Motorcycle,0.001817612
+Vermont,vt,Bicycle,0.005515512
+Vermont,vt,Walk,0.054152303
+Vermont,vt,Work from home,0.076778439
+Vermont,vt,Other,0.006643685
+Virginia,va,"Car, truck, or van",0.878178561
+Virginia,va,Bus,0.01868398
+Virginia,va,Streetcar,0.000262637
+Virginia,va,Subway,0.018064157
+Virginia,va,Railroad,0.00351408
+Virginia,va,Ferryboat,6.83E-05
+Virginia,va,Taxicab,0.000824679
+Virginia,va,Motorcycle,0.001775425
+Virginia,va,Bicycle,0.003682167
+Virginia,va,Walk,0.02204573
+Virginia,va,Work from home,0.045556974
+Virginia,va,Other,0.007343324
+Washington,wa,"Car, truck, or van",0.836265055
+Washington,wa,Bus,0.046529467
+Washington,wa,Streetcar,0.000170462
+Washington,wa,Subway,0.000557278
+Washington,wa,Railroad,0.002032427
+Washington,wa,Ferryboat,0.002694605
+Washington,wa,Taxicab,0.000413042
+Washington,wa,Motorcycle,0.00393373
+Washington,wa,Bicycle,0.008444407
+Washington,wa,Walk,0.0339612
+Washington,wa,Work from home,0.057504573
+Washington,wa,Other,0.007493755
+West Virginia,wv,"Car, truck, or van",0.919268659
+West Virginia,wv,Bus,0.006205822
+West Virginia,wv,Streetcar,5.57E-05
+West Virginia,wv,Subway,0.000306117
+West Virginia,wv,Railroad,0.001252296
+West Virginia,wv,Ferryboat,2.78E-05
+West Virginia,wv,Taxicab,0.00047309
+West Virginia,wv,Motorcycle,0.000723549
+West Virginia,wv,Bicycle,0.00139144
+West Virginia,wv,Walk,0.032810152
+West Virginia,wv,Work from home,0.03100128
+West Virginia,wv,Other,0.00648411
+Wisconsin,wi,"Car, truck, or van",0.888302056
+Wisconsin,wi,Bus,0.011237218
+Wisconsin,wi,Streetcar,2.81E-05
+Wisconsin,wi,Subway,7.73E-05
+Wisconsin,wi,Railroad,0.000337117
+Wisconsin,wi,Ferryboat,4.21E-05
+Wisconsin,wi,Taxicab,0.000618047
+Wisconsin,wi,Motorcycle,0.003490561
+Wisconsin,wi,Bicycle,0.00581526
+Wisconsin,wi,Walk,0.033711653
+Wisconsin,wi,Work from home,0.050693898
+Wisconsin,wi,Other,0.005646702
+Wyoming,wy,"Car, truck, or van",0.875324863
+Wyoming,wy,Bus,0.01407739
+Wyoming,wy,Railroad,7.22E-05
+Wyoming,wy,Taxicab,0.000216575
+Wyoming,wy,Motorcycle,0.002598903
+Wyoming,wy,Bicycle,0.009384926
+Wyoming,wy,Walk,0.038911349
+Wyoming,wy,Work from home,0.051689287
+Wyoming,wy,Other,0.007724516
+District of Columbia,dc,"Car, truck, or van",0.418125713
+District of Columbia,dc,Bus,0.145300865
+District of Columbia,dc,Streetcar,0.001677064
+District of Columbia,dc,Subway,0.212987187
+District of Columbia,dc,Railroad,0.004360368
+District of Columbia,dc,Ferryboat,6.71E-05
+District of Columbia,dc,Taxicab,0.003622459
+District of Columbia,dc,Motorcycle,0.002482055
+District of Columbia,dc,Bicycle,0.033138794
+District of Columbia,dc,Walk,0.121016972
+District of Columbia,dc,Work from home,0.051318173
+District of Columbia,dc,Other,0.005903267
