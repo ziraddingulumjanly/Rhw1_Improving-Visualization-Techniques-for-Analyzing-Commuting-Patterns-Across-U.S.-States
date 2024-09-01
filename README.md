@@ -4,7 +4,7 @@ The objective of this analysis is to visualize commuting patterns across several
 ## Original Visualization
 
 The original visualization used multiple pie charts to depict the proportion of different commuting modes in each state. However, the pie charts violated several fundamental visualization principles:
-![Incomplete Pie Chart](images/incomplete_pie_chart.png)
+![image](https://github.com/user-attachments/assets/1f8a5d8a-9aa7-433e-bd9b-929ccaeeaeee)
 
 - **Show the Data and Facilitate Comparison**: Pie charts make it difficult to compare proportions across multiple categories and states because they rely on the comparison of angles and areas, which is less intuitive.
 - **Focus on the Objective**: The original pie charts do not emphasize the objective clearly, as they scatter attention across many different modes of commuting without highlighting the primary mode of interest (walking).
@@ -14,7 +14,7 @@ The original visualization used multiple pie charts to depict the proportion of 
 ### 1. Grouped Bar Chart
 
 We created a grouped bar chart to address the limitations of the pie charts. This visualization clearly shows the proportion of each commuting mode across the selected states.
-![image](https://github.com/user-attachments/assets/514b3958-ace8-41b6-bc02-ba42b0debc5a)
+![image](https://github.com/user-attachments/assets/e98b633a-9100-4b8b-82ab-15835d208e85)
 
 #### How It Improves:
 - **Facilitates Comparison**: The grouped bar chart allows for a direct comparison of different commuting modes across all states on a common baseline, making it easier to assess the relative proportion of walking compared to other modes.
@@ -23,7 +23,8 @@ We created a grouped bar chart to address the limitations of the pie charts. Thi
 ### 2. Stacked Bar Chart
 
 We also created a stacked bar chart to provide a holistic view of the commuting patterns by showing all commuting modes in each state.
-![image](https://github.com/user-attachments/assets/8862b532-77c9-4cda-9ecd-a37bc8a0cf00)
+![image](https://github.com/user-attachments/assets/7db8c10a-0b20-484f-9dac-e73a9127b1df)
+
 #### How It Improves:
 - **Enhanced Focus on the Objective**: The stacked bar chart visually emphasizes the higher proportion of walking in Washington, D.C., compared to other states, aligning closely with the objective.
 - **Simplified Comparison**: It provides a clearer way to see the overall distribution and specific differences in commuting modes, such as walking, between Washington, D.C., and the other states.
