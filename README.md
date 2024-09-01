@@ -32,5 +32,4 @@ We also created a stacked bar chart to provide a holistic view of the commuting 
 Both alternative visualizations—the grouped bar chart and the stacked bar chart—offer significant improvements over the original pie charts by enhancing data clarity, facilitating comparison, and focusing on the study's objective. They provide a more accurate and accessible representation of commuting patterns across the selected states.
 
 
-**Author**: **ZIRADDIN GULUMJANLI** 
-**Year**: **2024**  
+**Author**: **ZIRADDIN GULUMJANLI 2024**  
