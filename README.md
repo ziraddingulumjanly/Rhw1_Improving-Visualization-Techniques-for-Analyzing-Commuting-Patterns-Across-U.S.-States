@@ -4,7 +4,7 @@ The objective of this analysis is to visualize commuting patterns across several
 ## Original Visualization
 
 The original visualization used multiple pie charts to depict the proportion of different commuting modes in each state. However, the pie charts violated several fundamental visualization principles:
-![image]([https://github.com/user-attachments/assets/1f8a5d8a-9aa7-433e-bd9b-929ccaeeaeee](https://wcs.smartdraw.com/chart/img/basic-bar-graph.png?bn=15100111801))
+![image](https://github.com/user-attachments/assets/1f8a5d8a-9aa7-433e-bd9b-929ccaeeaeee)
 
 - **Show the Data and Facilitate Comparison**: Pie charts make it difficult to compare proportions across multiple categories and states because they rely on the comparison of angles and areas, which is less intuitive.
 - **Focus on the Objective**: The original pie charts do not emphasize the objective clearly, as they scatter attention across many different modes of commuting without highlighting the primary mode of interest (walking).
